@@ -9,7 +9,7 @@ clicar na bandeira em destaque na opção **Regionalismo** e selecionar a regiã
 .. raw:: html
 
    <video class="align-center" width="384" height="288" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_region.webm" type="video/webm" />
+    <source src="../static/widget_gov_region.webm" type="video/webm" />
    </video>
    <br></br>
 

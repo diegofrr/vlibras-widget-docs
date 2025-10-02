@@ -11,7 +11,7 @@ acima dos controles na janela do *widget*, e respondendo a pergunta
 .. raw:: html
 
    <video class="align-center" width="384" height="288" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_feedback.webm" type="video/webm" />
+    <source src="../static/widget_gov_feedback.webm" type="video/webm" />
    </video>
    <br></br>
 
@@ -22,7 +22,7 @@ preenchida com a glosa da tradução.
 .. raw:: html
 
    <video class="align-center" width="384" height="288" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_send.webm" type="video/webm" />
+    <source src="../static/widget_gov_send.webm" type="video/webm" />
    </video>
    <br></br>
 
@@ -34,7 +34,7 @@ lista de palavras que o editor preencherá automaticamente.
 .. raw:: html
 
    <video class="align-center" width="384" height="288" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_auto.webm" type="video/webm" />
+    <source src="../static/widget_gov_auto.webm" type="video/webm" />
    </video>
    <br></br>
 
@@ -45,6 +45,6 @@ clicando no botão **Reproduzir** e enviada clicando no botão **Enviar Sugestã
 .. raw:: html
 
    <video class="align-center" width="384" height="288" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_reproduzir.webm" type="video/webm" />
+    <source src="../static/widget_gov_reproduzir.webm" type="video/webm" />
    </video>
    <br></br>

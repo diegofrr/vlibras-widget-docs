@@ -8,7 +8,7 @@ direto do website.
 .. raw:: html
 
    <video class="align-center" width="384" height="288" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_start.webm" type="video/webm" />
+    <source src="../static/widget_gov_start.webm" type="video/webm" />
    </video>
    <br></br>
 
@@ -18,5 +18,5 @@ indicando que pode ser traduzido. Clicando com o botão esquedo do mouse, a ferr
 .. raw:: html
 
    <video class="align-center" width="640" height="360" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_text_translator.webm" type="video/webm" />
+    <source src="../static/widget_gov_text_translator.webm" type="video/webm" />
    </video>

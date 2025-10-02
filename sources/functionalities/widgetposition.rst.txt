@@ -9,6 +9,6 @@ na opção de **Posição na tela**.
 .. raw:: html
 
    <video class="align-center" width="640" height="360" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_position.webm" type="video/webm" />
+    <source src="../static/widget_gov_position.webm" type="video/webm" />
    </video>
    <br></br>

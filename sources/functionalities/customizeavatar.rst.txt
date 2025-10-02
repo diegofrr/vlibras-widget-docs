@@ -7,7 +7,7 @@ Para que os avatares do VLibras sejam personalizados em seu website, você deve 
 
 Se você também desejar incluir o logotipo da sua instituição na blusa dos avatares, é necessário que seja também fornecida uma imagem atendendo aos seguintes critérios: 
 
-.. .. figure:: ../_static/image3.png
+.. .. figure:: ../static/image3.png
 ..    :align: center
 
 - Dimensão de 500px X 500px;
@@ -22,7 +22,7 @@ O que NÃO fazer
 
 **Inserir imagem com fundo**
 
-.. .. figure:: ../_static/image2.png
+.. .. figure:: ../static/image2.png
 ..    :align: center
 
 
@@ -30,7 +30,7 @@ Caso a imagem possua cor de fundo ela será inserida no avatar quebrando o padr�
 
 **Esticar imagem para ocupar toda a área de 200px X 200px**
 
-.. .. figure:: ../_static/image4.png
+.. .. figure:: ../static/image4.png
 ..    :align: center
 
 Caso a imagem seja deformada para a dimensão de 500px ela será inserida no avatar quebrando o padrão visual estabelecido.

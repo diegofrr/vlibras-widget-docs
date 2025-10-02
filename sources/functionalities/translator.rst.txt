@@ -9,6 +9,6 @@ superior esquerdo da janela do *widget*.
 .. raw:: html
 
    <video class="align-center" width="384" height="288" position="absolute" autoplay loop>
-    <source src="../_static/widget_gov_translator.webm" type="video/webm" />
+    <source src="../static/widget_gov_translator.webm" type="video/webm" />
    </video>
    <br></br>
